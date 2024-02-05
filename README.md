@@ -22,9 +22,12 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![ScreenRecording2024-02-05at2 08 20AM-ezgif com-optimize (2)](https://github.com/rtusiime/web102_prework/assets/59295504/41fb79bc-9e9f-42a6-95bc-a4ffecd5dec2)
+
 
 
 <img src='[https://imgur.com/a/vhT63o4](https://imgur.com/a/vhT63o4)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with mac's inbuilt screen recorder then converted to gif using [ezgif] (https://ezgif.com/video-to-gif)
