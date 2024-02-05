@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='![image](https://github.com/rtusiime/web102_prework/assets/59295504/95c68607-fa3e-460a-83d8-323b72039a57)
+<img src='![image](![ScreenRecording2024-02-05at2 08 20AM-ezgif com-optimize](https://github.com/rtusiime/web102_prework/assets/59295504/1854b6ba-4b93-4b00-9291-31e92efcaa05)
+)
 ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
