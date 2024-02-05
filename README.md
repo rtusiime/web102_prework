@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough]([DIRECT_LINK_TO_GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fhappy-feet-dancing-penguin-chubby-grooving-gif-5079227&psig=AOvVaw2fnKzsNRjGQp3cbeQcuA-e&ust=1707205341422000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICPitHZk4QDFQAAAAAdAAAAABAE))
-
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with mac's inbuilt screen recorder then converted to gif using [ezgif] (https://ezgif.com/video-to-gif)
