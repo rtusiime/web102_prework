@@ -107,10 +107,10 @@ function filterFundedOnly() {
     deleteChildElements(gamesContainer);
 
     // use filter() to get a list of games that have met or exceeded their goal
-    deleteChildElements(gamesContainer);
+    const fundedGames = GAMES_JSON.filter(game => game.pledged >= game.goal);
 
     // use the function we previously created to add unfunded games to the DOM
-    const fundedGames = GAMES_JSON.filter(game => game.pledged >= game.goal);
+
     addGamesToPage(fundedGames);
     console.log(fundedGames.length);
 
@@ -150,7 +150,8 @@ const unfundedGamesCount = GAMES_JSON.filter(game => game.pledged < game.goal).l
 
 // create a string that explains the number of unfunded games using the ternary operator
 const numGames = GAMES_JSON.length;
-const infoMessage = `Total Money Raised: $${totalMoneyRaised.toLocaleString()} for ${numberOfGames} games. 
+const totalMoneyRaised = GAMES_JSON.reduce((total, game) => total + game.pledged, 0);
+const infoMessage = `Total Money Raised: $${totalMoneyRaised.toLocaleString()} for ${numGames} games. 
 There ${unfundedGamesCount === 1 ? "is" : "are"} currently ${unfundedGamesCount} unfunded game${unfundedGamesCount === 1 ? "" : "s"}.
 `;
 console.log(infoMessage)
